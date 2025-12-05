@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2c14ee1023d9b47a2a039c0834a090a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - barkMaterial: {instanceID: 0}
+  - barkAlbedo: {fileID: 2800000, guid: 1809e31360b89435291e7eb6e85b865c, type: 3}
+  - barkNormal: {fileID: 2800000, guid: 1d91fffafac684af49ddd443ec46bc44, type: 3}
+  - barkHeight: {fileID: 2800000, guid: 0cfafc1862a944ff1ad5297378ea8d80, type: 3}
+  - barkMaskMap: {instanceID: 0}
+  - leafMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
